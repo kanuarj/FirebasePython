@@ -7,7 +7,7 @@ To make this interesting I've used the <a href="https://github.com/pallets/flask
 ## Using the Repo
 
 First go through the tutorials on my <a href="https://youtube.com/c/Raunak Joshi">YouTube</a> channel in this <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">playlist</a> </br>
-###Follow the steps given below</br>
+######Follow the steps given below</br>
 1. Clone this repository using command ~ 
 ```
 git clone https://github.com/kanuarj/FirebasePython.git
@@ -15,7 +15,10 @@ cd FirebasePython
 ```
 
 2. Install required python packages ~ </br>
-```pip install flask pyrebase```
+```
+pip install flask pyrebase
+
+```
 
 3. Follow <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">tutorials</a> and experiment with code.
 
