@@ -1,3 +1,21 @@
 # Python and Firebase with Deployment 
 
-This repository is having files covered in the tutorials on <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">YouTube</a>.
+This repository is having files covered in the tutorials on <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">YouTube</a>.</br>
+Implementation is done using the <a href="https://github.com/thisbejim/Pyrebase">Pyrebase</a>, which is a simple wrapper for Firebase API to interact with Python.</br>
+To make this interesting I've used the <a href="https://github.com/pallets/flask">Flask</a> Framework.</br>
+
+## Using the Repo
+
+First go through the tutorials on my <a href="https://youtube.com/c/Raunak Joshi">YouTube</a> channel in this playlist <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">playlist</a> </br>
+
+Step 1 : Clone this repository using command below. 
+```git clone https://github.com/kanuarj/FirebasePython.git```
+
+Step 2 : Install required python packages.
+```pip install flask pyrebase```
+
+Step 3 : Follow <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">tutorials</a> and experiment with code.
+
+Step 4 : Subscribe to my <a href="https://youtube.com/c/Raunak Joshi">YouTube</a> channel.
+
+Happy Learning. Peace.
