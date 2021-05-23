@@ -9,7 +9,10 @@ To make this interesting I've used the <a href="https://github.com/pallets/flask
 First go through the tutorials on my <a href="https://youtube.com/c/Raunak Joshi">YouTube</a> channel in this <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">playlist</a> </br>
 
 Step 1 : Clone this repository using command ~ 
-```git clone https://github.com/kanuarj/FirebasePython.git```
+```
+git clone https://github.com/kanuarj/FirebasePython.git
+cd FirebasePython
+```
 
 Step 2 : Install required python packages ~
 ```pip install flask pyrebase```
@@ -17,5 +20,5 @@ Step 2 : Install required python packages ~
 Step 3 : Follow <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">tutorials</a> and experiment with code.
 
 Step 4 : Subscribe to my <a href="https://youtube.com/c/Raunak Joshi">YouTube</a> channel.
-
+<hr>
 Happy Learning. Peace.
