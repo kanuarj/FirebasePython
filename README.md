@@ -17,7 +17,6 @@ cd FirebasePython
 2. Install required python packages ~ </br>
 ```
 pip install flask pyrebase
-
 ```
 
 3. Follow <a href="https://youtube.com/playlist?list=PLT_6xP6jAq8iZWXape48e5JJSsaq8fl19">tutorials</a> and experiment with code.
